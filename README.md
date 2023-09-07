@@ -1,11 +1,6 @@
 # Web Based Video Editor Using MLT Framework
 ![Overal schema](https://raw.githubusercontent.com/kudlav/videoeditor/master/docs/schema.png)
 
-## See it in action (YouTube video)
-[https://youtu.be/GemMThnqULE](https://youtu.be/GemMThnqULE)
-
-## Badges
-[![Build Status](https://travis-ci.org/kudlav/videoeditor.svg?branch=master)](https://travis-ci.org/kudlav/videoeditor)
 
 ## Features
 - web application no plugin required
